@@ -1,5 +1,5 @@
 # datascience
-all machine learning model and its implementation
+- All Machine Learning Model & its Implementation
 ## Supervised Learning 
 ### Naive bayes
 ## Unsupervised Learning 
