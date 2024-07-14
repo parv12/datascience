@@ -6,16 +6,16 @@
 3. Decision Tree
 4. Support Vector Machine 
 #### Unsupervised Learning 
-- Clustering
+1.  Clustering
   1. K-mean
   2. DBSCAN
   3. Fuzzy C-Mean
-- Dimensionality Reduction
+2. Dimensionality Reduction
   1. PCA
   2. LDA
   3. ODA
   4. SVD
-- Pattern search
+3. Pattern search
   1. Apriori
 #### Reinforcement Learning
 1. Q-Learning
@@ -23,11 +23,11 @@
 3. A3C
 4. Genetics Algorithm
 ### Ensemble Learning
-- Boosting
+1.  Boosting
    1. Adaboost
    2. XGboost
    3. Gredient D
--  Bagging
+2.  Bagging
   1. Random Forest
--   Stacking 
+3. Stacking 
 
