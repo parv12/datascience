@@ -22,12 +22,11 @@
 2. Deep-O-Network
 3. A3C
 4. Genetics Algorithm
-### Ensemble Learning
-1.  Boosting
-   1. Adaboost
-   2. XGboost
-   3. Gredient D
-2.  Bagging
-  1. Random Forest
-3. Stacking 
+#### Ensemble Learning
+1. Boosting
+   - adaboost
+   - catboost
+3. Bagging
+  - Random Forest
+4. Stacking 
 
