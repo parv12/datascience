@@ -26,7 +26,7 @@
 1. Boosting
    - adaboost
    - catboost
-3. Bagging
-  - Random Forest
-4. Stacking 
+2. Bagging
+   - Random Forest
+3. Stacking 
 
